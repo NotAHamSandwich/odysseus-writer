@@ -1,0 +1,40 @@
+.file-view {
+    display: flex;
+    display: -ms-flexbox;
+    width: 210px;
+    height: 100%;
+    background-color: whitesmoke;
+    bottom: 0px;
+    top: 0px;
+}
+
+.text-window {
+    position: relative;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+.text-window textarea {
+    
+    width: 100%;
+    height: 100%;
+}
+.text-window #tool-bar {
+    height: 32px;
+}
+
+
+
+.main-window {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+.chapter-overview {
+    width: 190px;
+}

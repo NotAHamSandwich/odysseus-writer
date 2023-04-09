@@ -1,0 +1,16 @@
+{
+  "name": "odysseus",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Quincy",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^24.0.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron-reloader": "^1.2.3"
+  }
+}
